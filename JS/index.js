@@ -1,4 +1,4 @@
-let recorder;
+let recorder = null;
 let audioChunks = [];
 console.log(recorder);
 console.log(audioChunks);
